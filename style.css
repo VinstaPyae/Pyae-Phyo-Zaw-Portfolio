@@ -484,6 +484,7 @@ form .send-btn:hover{
     justify-content: space-evenly;
     align-items: center;
     width: 100%;
+    padding-left: 75px;
   }
   
 .footer-content a{
@@ -610,6 +611,10 @@ form .send-btn:hover{
 @media (max-width: 680px){
     .main-content p{
         width: 100%;
+    }
+    .scroll-top i{
+       width: 25px;
+       height: 25px;
     }
 }
 
