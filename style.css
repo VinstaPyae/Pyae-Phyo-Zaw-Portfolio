@@ -616,6 +616,9 @@ form .send-btn:hover{
        width: 25px;
        height: 25px;
     }
+    .footer-content .email{
+        text-align: center;
+    }
 }
 
 @media (max-width: 470px){
