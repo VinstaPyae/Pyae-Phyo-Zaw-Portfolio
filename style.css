@@ -522,10 +522,6 @@ form .send-btn:hover{
     .footer{
         padding: 18px 5%;
     }
-    .hero{
-        height: 90vh;
-        background-position: center;
-    }
     .change-text{
         font-size: 1rem ;
     }
@@ -618,6 +614,10 @@ form .send-btn:hover{
     }
     .footer-content .email{
         text-align: center;
+    }
+    .hero{
+        height: 90vh;
+        background-position: center;
     }
 }
 
